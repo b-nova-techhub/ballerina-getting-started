@@ -17,6 +17,6 @@ opts:
 # Providers
 #
 providers:
-  aws_secretsmanager:
+  dotenv:
     env_sync:
       path: .env
