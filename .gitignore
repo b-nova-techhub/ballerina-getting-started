@@ -1,0 +1,6 @@
+target
+generated
+Config.toml
+.env
+.vscode
+.idea
